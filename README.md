@@ -65,3 +65,26 @@
 ## 키워드 분석
 - comparision cloud 이용
 ![image](https://user-images.githubusercontent.com/91619301/204523779-de533247-c4c2-4d54-8589-c2f5f79a2644.png)
+<aside>
+🤓 Trump의 positive keyword
+
+- will
+  - 확고한 의지를 나타내는 조동사를 많이 사용
+- protected
+  - 트럼프는 미국의 이익을 우선시한다는 background를 가지고 있다면 protected라는 어휘는 미국을 보호하겠다는 의미로 사용되었음을 짐작 가능
+- jobs, workers
+  - 근로자와 실업자, 이에 대한 일자리 관련돼서 이야기를 많이 함
+</aside>
+
+<aside>
+😎 Biden의 positive keyword
+
+- can
+  - 할 수 있다는 능력을 나타내며 용기를 복돋우는 조동사를 많이 사용
+- unity, uniting, democracy
+  - Biden은 민주주의와 결합, 통합, 화합을 연설문에서 매우 강조했음을 알 수 있음.
+- virus
+  -  코로나가 계속 진행되는 상황 속에서 취임함
+</aside>
+## 결론
+Trump와 Biden의 취임연설문을 비교함으로써 각자 강조하는 내용이 무엇인지, 어떤 정책을 추구하는지, we will과 we can의 사용빈도 차이 등을 발견할 수 있었음.
