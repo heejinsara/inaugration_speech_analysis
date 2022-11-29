@@ -8,25 +8,21 @@
 - america와 관련된 어휘에 대해서는 연어분석할 때 더 자세히 다룰 예정
 ### bi-gram
 ![image](https://user-images.githubusercontent.com/91619301/204523339-f89269d4-c848-4554-875c-6ef8d106a947.png)
-<aside>
-🤓 --Trump 고빈도 bi-gram--
 
+**🤓 Trump 고빈도 bi-gram**
 - we will
   - will은 ‘할 것이다’라는 뜻으로 아직 사실이 확인되지 않았지만 미래에 확실한 사실로 나타날 것이라는 화자의 확신과 강력한 의지를 담고 있는 표현
   - we와 will을 함께 사용함으로써 Trump는 국민들과 함께 해나갈 것이라는 확고한 의지를 표현했다고 유추 가능
 - of america, make america, american workers, bless america, america first 등 america와 관련된 어휘가 포함되는 bi-gram이 많이 나타남.
-</aside>
 
-<aside>
-😎 Biden 고빈도 bi-gram
-
+**😎 Biden 고빈도 bi-gram**
 - we can
   - can은 ‘할 수 있다’라는 의미로 기본적으로 능력을 나타내며 용기를 심어주고 복돋아주는 표현
   - we와 can을 함께 사용함으로써 Biden은 국민들에게 할 수 있다는 용기를 복돋아주었다고 유추 가능
 - fellow americans, my fellow
   - 국민을 가리킬 때 fellow를 많이 사용했음
 - american story, fellow american, america has 등 america와 관련된 어휘를 포함되는 bi-gram이 많이 나타남.
-</aside>
+
 
 ### 연어
 **배경**
