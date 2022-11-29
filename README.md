@@ -37,8 +37,8 @@
 - MI-Score 이용
   - MI-Score이 높을 때 텍스트 데이터를 해석하기 용이한 content word가 많이 출력되기 때문
 ![image](https://user-images.githubusercontent.com/91619301/204523671-7f3d5d53-caac-49d4-9810-712ed9311e09.png)
-<aside>
-🤓 Trump 중심어 근처에 MI-Score이 높게 나온 단어
+
+**🤓 Trump 중심어 근처에 MI-Score이 높게 나온 단어**
 
 - workers
   - 트럼프가 미국의 노동자나 실업자를 주요대상으로 여기고 있다는 사실을 알 수 있음.
@@ -46,24 +46,20 @@
   - 미국을 어떤 방향으로 만들지에 대해 이야기를 하는 것으로 유추 가능
 - first
   - 미국 우선주의(American First)를 강조한 트럼프의 정책을 엿볼 수 있음.
-</aside>
 
-<aside>
-😎 Biden 중심어 근처에 MI-Score이 높게 나온 단어
+**😎 Biden 중심어 근처에 MI-Score이 높게 나온 단어**
 
 - fellow
   - Biden은 미국 자국민을 지칭할 때 fellow라는 어휘를 많이 사용
 - story
   - 미국의 역사와 관련된 이야기를 했음을 유추 가능
-</aside>
-
 
 ## 키워드 분석
 - comparision cloud 이용
 
 ![image](https://user-images.githubusercontent.com/91619301/204523779-de533247-c4c2-4d54-8589-c2f5f79a2644.png)
-<aside>
-🤓 Trump의 positive keyword
+
+**🤓 Trump의 positive keyword**
 
 - will
   - 확고한 의지를 나타내는 조동사를 많이 사용
@@ -71,10 +67,8 @@
   - 트럼프는 미국의 이익을 우선시한다는 background를 가지고 있다면 protected라는 어휘는 미국을 보호하겠다는 의미로 사용되었음을 짐작 가능
 - jobs, workers
   - 근로자와 실업자, 이에 대한 일자리 관련돼서 이야기를 많이 함
-</aside>
 
-<aside>
-😎 Biden의 positive keyword
+**😎 Biden의 positive keyword**
 
 - can
   - 할 수 있다는 능력을 나타내며 용기를 복돋우는 조동사를 많이 사용
@@ -82,7 +76,6 @@
   - Biden은 민주주의와 결합, 통합, 화합을 연설문에서 매우 강조했음을 알 수 있음.
 - virus
   -  코로나가 계속 진행되는 상황 속에서 취임함
-</aside>
 
 ## 결론
 Trump와 Biden의 취임연설문을 비교함으로써 각자 강조하는 내용이 무엇인지, 어떤 정책을 추구하는지, we will과 we can의 사용빈도 차이 등을 발견할 수 있었음.
