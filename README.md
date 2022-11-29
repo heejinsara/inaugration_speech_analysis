@@ -1,12 +1,12 @@
 ## 트럼프와 바이든의 취임연설문 비교 분석 
 2017년 트럼프의 취임연설문과 2021년 바이든의 취임연설문 수집하여 텍스트 분석을 진행했습니다.
 
-### 빈도분석
+### 1. 빈도분석
 공통적으로 고빈도에 나타나는 어휘: america, american, people, nation, world, americans
 - america와 관련된 어휘들이 많이 나타나는 것을 찾아볼 볼 수 있음.
 - 미국 대통령 취임연설문이기 때문에 미국에 대한 정책이나 미국인에게 하고자 하는 말이 담겨져 있을 것
 - america와 관련된 어휘에 대해서는 연어분석할 때 더 자세히 다룰 예정
-### bi-gram
+### 2. bi-gram
 ![image](https://user-images.githubusercontent.com/91619301/204523339-f89269d4-c848-4554-875c-6ef8d106a947.png)
 
 **🤓 Trump 고빈도 bi-gram**
@@ -23,8 +23,7 @@
   - 국민을 가리킬 때 fellow를 많이 사용했음
 - american story, fellow american, america has 등 america와 관련된 어휘를 포함되는 bi-gram이 많이 나타남.
 
-
-### 연어
+### 3. 연어
 **배경**
 - america관련 어휘는 Trump와 Biden에서 모두 빈도가 높게 나타나고 bi-gram에서도 고빈도로 나타남.
 - america관련 어휘는 어떤 어휘들과 함께 빈번하게 사용될까?
@@ -54,7 +53,7 @@
 - story
   - 미국의 역사와 관련된 이야기를 했음을 유추 가능
 
-## 키워드 분석
+### 4.키워드 분석
 - comparision cloud 이용
 
 ![image](https://user-images.githubusercontent.com/91619301/204523779-de533247-c4c2-4d54-8589-c2f5f79a2644.png)
@@ -77,5 +76,5 @@
 - virus
   -  코로나가 계속 진행되는 상황 속에서 취임함
 
-## 결론
+### 결론
 Trump와 Biden의 취임연설문을 비교함으로써 각자 강조하는 내용이 무엇인지, 어떤 정책을 추구하는지, we will과 we can의 사용빈도 차이 등을 발견할 수 있었습니다.
