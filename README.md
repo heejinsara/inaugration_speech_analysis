@@ -9,7 +9,7 @@
 ### bi-gram
 ![image](https://user-images.githubusercontent.com/91619301/204523339-f89269d4-c848-4554-875c-6ef8d106a947.png)
 <aside>
-☝ Trump 고빈도 bi-gram
+🤓 Trump 고빈도 bi-gram
 
 - we will
   - will은 ‘할 것이다’라는 뜻으로 아직 사실이 확인되지 않았지만 미래에 확실한 사실로 나타날 것이라는 화자의 확신과 강력한 의지를 담고 있는 표현
@@ -18,7 +18,7 @@
 </aside>
 
 <aside>
-✌️ Biden 고빈도 bi-gram
+😎 Biden 고빈도 bi-gram
 
 - we can
   - can은 ‘할 수 있다’라는 의미로 기본적으로 능력을 나타내며 용기를 심어주고 복돋아주는 표현
@@ -45,7 +45,7 @@
   - MI-Score이 높을 때 텍스트 데이터를 해석하기 용이한 content word가 많이 출력되기 때문
 ![image](https://user-images.githubusercontent.com/91619301/204523671-7f3d5d53-caac-49d4-9810-712ed9311e09.png)
 <aside>
-☝ Trump 중심어 근처에 MI-Score이 높게 나온 단어
+🤓 Trump 중심어 근처에 MI-Score이 높게 나온 단어
 
 - workers
   - 트럼프가 미국의 노동자나 실업자를 주요대상으로 여기고 있다는 사실을 알 수 있음.
@@ -56,7 +56,7 @@
 </aside>
 
 <aside>
-✌️ Biden 중심어 근처에 MI-Score이 높게 나온 단어
+😎 Biden 중심어 근처에 MI-Score이 높게 나온 단어
 
 - fellow
   - Biden은 미국 자국민을 지칭할 때 fellow라는 어휘를 많이 사용
