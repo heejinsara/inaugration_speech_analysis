@@ -7,6 +7,7 @@
 - 미국 대통령 취임연설문이기 때문에 미국에 대한 정책이나 미국인에게 하고자 하는 말이 담겨져 있을 것
 - america와 관련된 어휘에 대해서는 연어분석할 때 더 자세히 다룰 예정
 ### bi-gram
+![image](https://user-images.githubusercontent.com/91619301/204523339-f89269d4-c848-4554-875c-6ef8d106a947.png)
 <aside>
 ☝ Trump 고빈도 bi-gram
 
@@ -37,11 +38,12 @@
 - america관련 어휘를 중심어로 설정하여 연어분석 진행
 </aside>
 
-
+**조건**
 - 중심어: America와 관련된 어휘들
 - 중심어의 좌우 각각 두 구간씩, 총 4구간에 대해 살펴봄
 - MI-Score 이용
   - MI-Score이 높을 때 텍스트 데이터를 해석하기 용이한 content word가 많이 출력되기 때문
+![image](https://user-images.githubusercontent.com/91619301/204523671-7f3d5d53-caac-49d4-9810-712ed9311e09.png)
 <aside>
 ☝ Trump 중심어 근처에 MI-Score이 높게 나온 단어
 
@@ -64,3 +66,5 @@
 
 
 ## 키워드 분석
+- comparision cloud 이용
+![image](https://user-images.githubusercontent.com/91619301/204523779-de533247-c4c2-4d54-8589-c2f5f79a2644.png)
