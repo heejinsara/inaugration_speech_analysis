@@ -9,7 +9,7 @@
 ### bi-gram
 ![image](https://user-images.githubusercontent.com/91619301/204523339-f89269d4-c848-4554-875c-6ef8d106a947.png)
 <aside>
-🤓 Trump 고빈도 bi-gram
+**🤓 Trump 고빈도 bi-gram**
 
 - we will
   - will은 ‘할 것이다’라는 뜻으로 아직 사실이 확인되지 않았지만 미래에 확실한 사실로 나타날 것이라는 화자의 확신과 강력한 의지를 담고 있는 표현
@@ -87,5 +87,6 @@
 - virus
   -  코로나가 계속 진행되는 상황 속에서 취임함
 </aside>
+
 ## 결론
 Trump와 Biden의 취임연설문을 비교함으로써 각자 강조하는 내용이 무엇인지, 어떤 정책을 추구하는지, we will과 we can의 사용빈도 차이 등을 발견할 수 있었음.
