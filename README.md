@@ -12,7 +12,7 @@ Trump 고빈도 bi-gram
   - will은 ‘할 것이다’라는 뜻으로 아직 사실이 확인되지 않았지만 미래에 확실한 사실로 나타날 것이라는 화자의 확신과 강력한 의지를 담고 있는 표현
   - we와 will을 함께 사용함으로써 Trump는 국민들과 함께 해나갈 것이라는 확고한 의지를 표현했다고 유추 가능
 - of america, make america, american workers, bless america, america first 등 america와 관련된 어휘가 포함되는 bi-gram이 많이 나타남.
-<br>
+
 Biden 고빈도 bi-gram
 - we can
   - can은 ‘할 수 있다’라는 의미로 기본적으로 능력을 나타내며 용기를 심어주고 복돋아주는 표현
